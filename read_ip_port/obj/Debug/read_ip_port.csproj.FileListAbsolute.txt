@@ -1,0 +1,11 @@
+D:\Project\vs\read_ip_port\read_ip_port\bin\Debug\read_ip_port.exe.config
+D:\Project\vs\read_ip_port\read_ip_port\bin\Debug\read_ip_port.exe
+D:\Project\vs\read_ip_port\read_ip_port\bin\Debug\read_ip_port.pdb
+D:\Project\vs\read_ip_port\read_ip_port\obj\Debug\read_ip_port.Form1.resources
+D:\Project\vs\read_ip_port\read_ip_port\obj\Debug\read_ip_port.Properties.Resources.resources
+D:\Project\vs\read_ip_port\read_ip_port\obj\Debug\read_ip_port.csproj.GenerateResource.Cache
+D:\Project\vs\read_ip_port\read_ip_port\obj\Debug\read_ip_port.exe
+D:\Project\vs\read_ip_port\read_ip_port\obj\Debug\read_ip_port.pdb
+D:\Project\vs\read_ip_port\read_ip_port\obj\Debug\read_ip_port.csproj.ResolveComReference.cache
+D:\Project\vs\read_ip_port\read_ip_port\bin\Debug\EPPlus.dll
+D:\Project\vs\read_ip_port\read_ip_port\bin\Debug\EPPlus.xml
